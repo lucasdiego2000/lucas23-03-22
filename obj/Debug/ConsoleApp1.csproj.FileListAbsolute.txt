@@ -1,0 +1,7 @@
+C:\Users\facec.lab04\source\repos\aula-23-03-22\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\aula-23-03-22\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\aula-23-03-22\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\facec.lab04\source\repos\aula-23-03-22\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\facec.lab04\source\repos\aula-23-03-22\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\facec.lab04\source\repos\aula-23-03-22\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\facec.lab04\source\repos\aula-23-03-22\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
